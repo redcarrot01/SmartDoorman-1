@@ -108,3 +108,6 @@
 ## 개선할 점
 
 ![image](https://user-images.githubusercontent.com/38436013/106388409-bc40e500-6421-11eb-974d-a3415d319e38.png)
+
+## 어려웠던 점
+- 레트로킷(추후에 작성)
